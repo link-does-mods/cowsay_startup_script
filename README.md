@@ -11,6 +11,11 @@ sudo apt-get install cowsay
 ```
 sudo snap install lolcat
 ```
+#### On Arch:
+```
+sudo pacman -S cowsay
+sudo pacman -S lolcat
+```
 #### On Fedora, CentOS:
 ```
 sudo dnf install cowsay
