@@ -39,4 +39,4 @@ sh ~/path-to-script/cowsay_msgs.sh
 ```
 ### Editing the Script
 ---
-You can add your own messages as well by adding more lines to the cowsay_startup_script.sh file. It shouldn't be too hard to do.
+You can add your own messages as well by adding more lines to the cowsay_msgs.sh file. It shouldn't be too hard to do.
